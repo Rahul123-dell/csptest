@@ -1,0 +1,1 @@
+alert("CSP BYPASSED SUCCESSFULL");
